@@ -10,7 +10,7 @@ public class PetEurekaApplication {
 
 	public static void main(String[] args) {
 		
-SpringApplication.run(PetEurekaApplicationnnnn.class, 
+SpringApplication.run(PetEurekaApplication.class, 
 args);
 	}
 
