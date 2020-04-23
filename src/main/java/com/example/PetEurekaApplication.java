@@ -11,7 +11,7 @@ public class PetEurekaApplication {
 	public static void main(String[] args) {
 		
 SpringApplication.run(PetEurekaApplication.class, 
-args); hehehehe
+args); 
 	}
 
 }
